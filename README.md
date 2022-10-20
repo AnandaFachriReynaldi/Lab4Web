@@ -22,3 +22,5 @@ Memindahkan clear ke right
 ![Step7](SS/SS7.png)
 8. Mengatur Layout Main dan Sidebar lalu Membuat Sidebar Widget dan Mengatur Footer
 ![Step8](SS/SS8.png)
+9. Menambahkan Elemen lain pada Main Content
+![Step9](SS/SS9.png)
