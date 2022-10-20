@@ -14,3 +14,5 @@ Memindahkan clear ke right
 ### Membuat File HTML Layout
 4. Membuat folder baru dengan nama lab4_layout, membuat file baru di dalamnya dengan nama home.html
 ![Step4](SS/SS4.png)
+5. Membuat FIle style.css
+![Step5](SS/SS5.png)
