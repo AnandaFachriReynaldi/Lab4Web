@@ -16,3 +16,5 @@ Memindahkan clear ke right
 ![Step4](SS/SS4.png)
 5. Membuat FIle style.css
 ![Step5](SS/SS5.png)
+6. Membuat Navigasi
+![Step6](SS/SS6.png)
