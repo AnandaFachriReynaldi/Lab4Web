@@ -8,3 +8,6 @@
 ![Step1](SS/SS1.png)
 2. Mengatur Clearfix Element
 ![Step2](SS/SS2.png)
+3. Eksperimen Clearfix Element <br />
+Memindahkan clear ke right
+![Step3](SS/SS3.png)
