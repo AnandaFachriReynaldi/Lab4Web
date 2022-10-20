@@ -26,3 +26,7 @@ Memindahkan clear ke right
 ![Step9](SS/SS9.png)
 10. Menambahkan Content Artikel Pada Main Content
 ![Step10](SS/SS10.png)
+### Pertanyaan dan Tugas
+1. Tambahkan Layout untuk menu About
+=> buat single layout yang berisi deskripsi, portfolio, dll
+![Step11](SS/SS11.png)
