@@ -24,3 +24,5 @@ Memindahkan clear ke right
 ![Step8](SS/SS8.png)
 9. Menambahkan Elemen lain pada Main Content
 ![Step9](SS/SS9.png)
+10. Menambahkan Content Artikel Pada Main Content
+![Step10](SS/SS10.png)
