@@ -18,3 +18,5 @@ Memindahkan clear ke right
 ![Step5](SS/SS5.png)
 6. Membuat Navigasi
 ![Step6](SS/SS6.png)
+7. Membuat Hero Panel
+![Step7](SS/SS7.png)
