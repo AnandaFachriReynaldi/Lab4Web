@@ -11,3 +11,6 @@
 3. Eksperimen Clearfix Element <br />
 Memindahkan clear ke right
 ![Step3](SS/SS3.png)
+### Membuat File HTML Layout
+4. Membuat folder baru dengan nama lab4_layout, membuat file baru di dalamnya dengan nama home.html
+![Step4](SS/SS4.png)
