@@ -30,3 +30,6 @@ Memindahkan clear ke right
 1. Tambahkan Layout untuk menu About
 => buat single layout yang berisi deskripsi, portfolio, dll
 ![Step11](SS/SS11.png)
+2. Tambahkan layout untuk menu Contact
+=> yang berisi form isian: nama, email, message, dll
+![Step12](SS/SS12.png)
